@@ -1,4 +1,4 @@
-# [Ultramsg.com]([Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot))  WhatsApp Bot
+# [Ultramsg.com]([Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot))  WhatsApp Chatbot
 Demo WhatsApp ChatBot with [Ultramsg API](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot)
 for Build a WhatsApp Chatbot With Python .
 
