@@ -56,7 +56,7 @@ class ultraChatBot():
 
     def time(self, chatID):
         t = datetime.datetime.now()
-        time = t.strftime('%d:%m:%Y')
+        time = t.strftime('%Y-%m-%d %H:%M:%S')
         return self.send_message(chatID, time)
 
 
