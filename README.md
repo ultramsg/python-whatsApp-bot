@@ -1,5 +1,5 @@
 # [Ultramsg.com]([Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot)) WhatsApp Bot using WhatsApp API and ultramsg
-Demo WhatsApp API ChatBot using [Ultramsg API](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot) .
+Demo WhatsApp API ChatBot using [Ultramsg API](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot) with python.
 # Opportunities and tasks:
 - The output of the command list .
 - The output of the server time of the bot running on .
