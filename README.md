@@ -1,5 +1,5 @@
-# [Ultramsg.com]([Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot))  WhatsApp Chatbot
-Demo WhatsApp ChatBot with [Ultramsg API](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot)
+# [Ultramsg.com]([Ultramsg.com](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot)) WhatsApp Bot using WhatsApp API and ultramsg
+Demo WhatsApp API ChatBot with [Ultramsg API](https://ultramsg.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot)
 for Build a WhatsApp Chatbot With Python .
 
 # Opportunities and tasks:
@@ -75,7 +75,7 @@ Sends the current server time .
 ```python
 def time(self, chatID):
     t = datetime.datetime.now()
-    time = t.strftime('%Y-%m-%d %H:%M:%S')
+    time = t.strftime('%d:%m:%Y')
     return self.send_message(chatID, time)
 ```
 - ChatID – ID of the chat where the message should be sent for him, e.g 14155552671@c.us .
