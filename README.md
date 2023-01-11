@@ -64,7 +64,7 @@ def send_message(self, chatID, text):
     answer = self.send_requests('messages/chat', data)
     return answer
 ```
-- ChatID – ID of the chat where the message should be sent for him, e.g 14155552671@c.us . for him, e.g 14155552671@c.us .
+- ChatID – ID of the chat where the message should be sent for him, e.g 14155552671@c.us . 
 - Text – Text of the message .
 
 
